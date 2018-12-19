@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Travel Agency Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/wordpress/wordpress
+Data file = C:\xampp\htdocs\wordpress\wordpress/wp-content/uploads/rara-demo-pack/travel-agency-demo-content/content/travelagency.xml
+Widget file = C:\xampp\htdocs\wordpress\wordpress/wp-content/uploads/rara-demo-pack/travel-agency-demo-content/content/travelagency.wie
+Customizer file = C:\xampp\htdocs\wordpress\wordpress/wp-content/uploads/rara-demo-pack/travel-agency-demo-content/content/travelagency.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
